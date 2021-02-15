@@ -1,0 +1,13 @@
+- 👣 Hi, I’m Jachym (Joakim)
+- 👀 I’m interested in Web dev and Web App solutions
+- 📘 Languages most used in work process: Svelte, JS, HTML, SCSS
+- 🖥 Daily-basis software I am using: VS Code, Figma, Spotify, Notion
+- 🌱 I’m currently learning: 
+  - Python 
+  - Node.js 
+  - Google Apps Script (Docs, Sheets, Slides, Youtube, etc.) integration and process automation
+- 🧘🏻‍ In free time I am passioned about holistic life approach and mind. Also psychology, psychedelics and harm reduction it is.
+- 📫 How to reach me: 
+  - [Linkedin](https://www.linkedin.com/in/j%C3%A1chym-janou%C5%A1ek-20967a156/)
+  - [Mail](mailto:janousekjachym@gmail.com)
+  - [Discord](https://discordapp.com/users/422508907986944040/)
