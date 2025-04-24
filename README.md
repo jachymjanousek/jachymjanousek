@@ -3,12 +3,13 @@
 - 📘 Languages most used in work process: Svelte/Kit, JS, HTML, SCSS
 - 🖥 Daily-basis software I am using: VS Code, Figma, Spotify, Notion
 - 🌱 I’m currently learning: 
-  - Python 
-  - Node.js 
-  - Google Apps Script (Docs, Sheets, Slides, Youtube, etc.) integration and process automation
+  - Python
+  - using n8n and processes digitization
+  - AI implementations
+  - ~~Google Apps Script (Docs, Sheets, Slides, Youtube, etc.) integration and process automation~~
 - 🧘🏻‍ In free time I am discovering holistic life approach and mindset.
 - 🧠 Also psychology, psychedelics and harm reduction is my niche.
 - 📫 How to reach me: 
-  - [Linkedin](https://www.linkedin.com/in/j%C3%A1chym-janou%C5%A1ek-20967a156/)
+  - [Linkedin](https://joat.cz/)
   - [Mail](mailto:janousekjachym@gmail.com)
   - [Discord](https://discordapp.com/users/422508907986944040/)
